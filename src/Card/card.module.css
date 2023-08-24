@@ -1,0 +1,15 @@
+.card{
+    margin-top:15px;
+    margin-right:20px;
+    border: 5px solid #e7f6ff;
+    padding:9px;
+    width:232px;
+    border-radius: 30px;
+    &:hover{
+      box-shadow: 1px solid black;
+      border: 5px solid #6ac6ff;
+    }
+  }
+.plus{
+    cursor:pointer;
+}
